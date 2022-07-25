@@ -1,3 +1,3 @@
 # SPAM SHEREK 
 
-entire shrek script line by line
+Writes the entire shrek script line by line
